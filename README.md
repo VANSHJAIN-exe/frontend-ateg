@@ -33,7 +33,7 @@ npm run dev
 
 ## Usage
 
-After starting the development server, the application will be available at `http://localhost:3000` (or another port if configured differently). Note that you have to run the flask (backend) service also.
+After starting the development server, the application will be available at `http://localhost:3000` (or another port if configured differently). Note that you have to run the flask (backend) service also. https://github.com/ShikharSomething/Ateg
 
 Upload your video or audio files through the intuitive interface. A progress bar will display the upload and processing status. Once processing is complete, the result will automatically download to your device.
 
