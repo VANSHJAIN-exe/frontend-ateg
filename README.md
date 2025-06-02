@@ -1,7 +1,7 @@
 ## Overview
 
 This repository contains the frontend codebase for the ATEG project. Built with modern web technologies, it provides a responsive and intuitive user interface for interacting with ATEG services.
-Deployed at: http://34.27.252.251:5000/
+Deployed at: http://34.27.252.251/
 
 
 ## Features
